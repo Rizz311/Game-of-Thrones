@@ -3,7 +3,7 @@ This is a simple API project that I was working on in class that can give you th
 
 **Link to project:** https://github.com/Rizz311/Game-of-Thrones
 
-![alt tag](file:///home/resilient/Desktop/GoT%20API/img/GoT.png)
+![alt tag](https://github.com/Rizz311/Game-of-Thrones/blob/master/GoT%20API/img/GoT.png)
 
 ## How It's Made:
 
