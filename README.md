@@ -1,7 +1,7 @@
 # Game-of-Thrones
 This is a simple API project that I was working on in class that can give you the names from all 2138 characters in Game Of Thrones.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://github.com/Rizz311/Game-of-Thrones
 
 ![alt tag](file:///home/resilient/Desktop/GoT%20API/img/GoT.png)
 
