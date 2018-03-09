@@ -25,6 +25,3 @@ Take a look at these couple examples that I have in my own portfolio:
 **Slot Machine :** https://github.com/Rizz311/mywork/tree/master/Portfolio/projects/Slot%20Machine
 
 **Horoscope:** https://github.com/Rizz311/mywork/tree/master/Portfolio/projects/Horoscope
-
-
-
